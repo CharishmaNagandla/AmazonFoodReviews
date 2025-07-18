@@ -20,7 +20,7 @@ Install required libraries:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn nltk wordcloud xgboost keras tensorflow transformers
 
-## 💻 Machine Learning Algorithms Used
+## 💻 **Machine Learning Algorithms Used**
 
 - **Logistic Regression**
 - **Multinomial Naive Bayes**
